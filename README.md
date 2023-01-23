@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suprava2411
-- 👀 I’m interested in Fullstack java developer 
+- 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me supravapriyadarshini24@gmail.com
 
